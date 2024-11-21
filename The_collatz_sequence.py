@@ -1,12 +1,14 @@
 
 def collatz(number):
-
+    global steps
+    steps = 0
     while number != 1:
         if number % 2 == 0:
             number //= 2
         else:
             number = number * 3 + 1
         print(number)
+        steps += 1
 
 
 try:
@@ -18,6 +20,4 @@ except ValueError:
     print("Invalid input! Please enter a positive integer.")
 
 
-print("\nSequence complete!")
-
-
+print(f"\nSequence complete! After {steps} steps.")
