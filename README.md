@@ -27,4 +27,4 @@ No external libraries are required for this project.
 ## **How to Run**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<Mr-Anas608>/The_Collatz_Sequence
+   git clone https://github.com/Mr-Anas608/The_Collatz_Sequence
