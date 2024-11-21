@@ -28,3 +28,9 @@ No external libraries are required for this project.
 1. Clone this repository:
    ```bash
    git clone https://github.com/Mr-Anas608/The_Collatz_Sequence
+    ```bash
+   cd The_collatz_sequence.py
+    ```bash
+   python The_collatz_sequence.py
+
+
