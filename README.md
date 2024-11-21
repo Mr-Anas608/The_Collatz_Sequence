@@ -15,22 +15,7 @@ This sequence is fascinating because, no matter what positive integer you start 
 3. Using a **while loop**, the program computes the Collatz Sequence step-by-step and displays each intermediate value until the sequence reaches `1`.
 4. After the sequence is complete, a message is displayed to indicate successful execution.
 
----
+## License
 
-## **Requirements**
-- Python 3.x
-
-No external libraries are required for this project.
-
----
-
-## **How to Run**
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Mr-Anas608/The_Collatz_Sequence
-    ```bash
-   cd The_collatz_sequence.py
-    ```bash
-   python The_collatz_sequence.py
-
+This project is open-source and free to use.
 
